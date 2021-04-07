@@ -1,64 +1,52 @@
-img{
-  width: 500px;
-  height: auto;
+@font-face {
+    font-family: 'Kudryashev Display';
+    src: url('font/KudryashevDisplay-Sans.eot');
+    src: local('font/Kudryashev Display Sans'), local('KudryashevDisplay-Sans'),
+        url('font/KudryashevDisplay-Sans.eot?#iefix') format('embedded-opentype'),
+        url('font/KudryashevDisplay-Sans.woff2') format('woff2'),
+        url('font/KudryashevDisplay-Sans.woff') format('woff'),
+        url('font/KudryashevDisplay-Sans.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
 }
 
-
-body {
-  font-family: Arial;
-  }
-
-cursor{
-position: absolute;
-width: 583px;
-height: 562px;
-left: 248px;
-top: 284px;
-
-background: rgba(250, 255, 0, 0.6);
-
+html{
+  background-color: black;
 }
-
 
 h1 {
   font-weight: bold;
   font-family: times
   font-size: 1.5rem;
   margin: 0;
+  color: white;
 }
 
-
-
-.clickable{
+.centerblock{
   position: absolute;
-width: 570px;
-height: 540px;
-left: 150px;
-top: 140px;
-border-radius: 50%;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 0px;
 
-background: rgba(255, 0, 0, 0.6);
-}
-.clickable2{
-  position: absolute;
-width: 570px;
-height: 540px;
-left: 436px;
-top: 140px;
-border-radius: 50%;
+background: #FFFFFF;
+    } 
 
-background: rgba(0, 56, 255, 0.6);
+.text{
+  font-family: 'Kudryashev Display';
+    font-weight: 500;
+    font-style: normal;
 }
-.clickable3{
-  position: absolute;
-width: 570px;
-height: 540px;
-left:720px;
-top: 140px;
-border-radius: 50%;
+ 
+img{
+  padding: 60px;
+  width: 300px;
+  height: auto;
+}
 
-background: rgba(250, 255, 0, 0.6);
-}
+
+
+
 
 
 /*.grid-container{
@@ -75,4 +63,5 @@ background: rgba(250, 255, 0, 0.6);
   padding: 20px;
   font-size: 30px;
   text-align: center;
+
 */

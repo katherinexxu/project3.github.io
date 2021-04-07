@@ -58,9 +58,9 @@ function showBooks() {
   console.log("showBooks()");
   books.forEach((book) => {
 
-    const h2 = document.createElement("h2");
-    h2.innerText = book.fields.Name;
-    document.body.appendChild(h2);
+    const h1 = document.createElement("h1");
+    h1.innerText = book.fields.Name;
+    document.body.appendChild(h1);
 
     const img = document.createElement("img");
     img.src = book.fields.Image[0].url;
