@@ -23,7 +23,7 @@ h1 {
 }
 
 .centerblock{
-  position: absolute;
+position: absolute;
 width: 1440px;
 height: 60px;
 left: 0px;
@@ -32,10 +32,10 @@ top: 0px;
 background: #FFFFFF;
     } 
 
-.text{
+.label{
   font-family: 'Kudryashev Display';
-    font-weight: 500;
-    font-style: normal;
+    font-size: 50px;
+  padding:500px;
 }
  
 img{
