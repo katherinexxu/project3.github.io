@@ -6,6 +6,17 @@ img{
 
 body {
   font-family: Arial;
+  }
+
+cursor{
+position: absolute;
+width: 583px;
+height: 562px;
+left: 248px;
+top: 284px;
+
+background: rgba(250, 255, 0, 0.6);
+
 }
 
 
@@ -22,7 +33,7 @@ h1 {
   position: absolute;
 width: 570px;
 height: 540px;
-left: 163px;
+left: 150px;
 top: 140px;
 border-radius: 50%;
 
