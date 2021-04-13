@@ -14,6 +14,13 @@ html{
   background-color: black;
 }
 
+.opening{
+  font-family: 'Chomsky';
+  font-size: 100px;
+  color: white;
+  animation: floating 6s ease-in-out infinite;
+
+}
 h1 {
    font-family: 'Kudryashev Display';
   font-size: 40px;
