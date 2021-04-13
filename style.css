@@ -14,33 +14,6 @@ html{
   background-color: black;
 }
 
-.opening{
-  font-family: 'Chomsky';
-  font-size: 100px;
-  color: white;
-  animation: floating 6s ease-in-out infinite;
-
-}
-
-.arrow{
-  text-align: center;
-  font-size: 100px;
-  color: white;
-}
-
-#link:link {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-#link:visited {
-  color: white;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-
 h1 {
    font-family: 'Kudryashev Display';
   font-size: 40px;
