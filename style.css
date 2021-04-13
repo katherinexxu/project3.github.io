@@ -15,7 +15,7 @@ html{
 }
 
 .opening{
-  font-family: 'Chomsky';
+  font-family:'Chomsky';
   font-size: 100px;
   color: white;
   animation: floating 6s ease-in-out infinite;
