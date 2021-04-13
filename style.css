@@ -10,9 +10,6 @@
     font-style: normal;
 }
 
-html{
-  background-color: black;
-}
 
 .opening{
   font-family:'Chomsky';
@@ -38,6 +35,11 @@ html{
   background-color: transparent;
   text-decoration: none;
 }
+
+html{
+  background-color: black;
+}
+
 
 h1 {
    font-family: 'Kudryashev Display';
