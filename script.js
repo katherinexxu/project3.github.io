@@ -68,7 +68,7 @@ function showBooks() {
         bookContainer.classList.add("book-container");
         document.querySelector(".container").append(bookContainer);
 
-        var bookText = document.createElement("h1");
+        var bookText = document.createElement("h2");
         bookText.classList.add("book-Text");
         bookText.innerText = book.fields.Text;
         bookContainer.append(bookText);

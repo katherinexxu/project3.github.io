@@ -11,7 +11,7 @@
 }
 
 
-.opening{
+h1{
   font-family:'Chomsky';
   font-size: 100px;
   color: white;
@@ -41,7 +41,7 @@ html{
 }
 
 
-h1 {
+h2 {
    font-family: 'Kudryashev Display';
   font-size: 40px;
   color: #FFFFFF;
