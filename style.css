@@ -18,7 +18,7 @@ html{
 }
 
 h1{
-  font-family:'Chomsky';
+  font-family:'chomskyregular';
   color:#dac292;
   font-size: 100px;
   animation: floating 6s ease-in-out infinite;
