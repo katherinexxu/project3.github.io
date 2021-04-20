@@ -33,7 +33,6 @@ h1{
 .container{
     display: grid;
     grid-template-columns: auto;
-    grid-row-gap: 60px;
   }
 
 img{
