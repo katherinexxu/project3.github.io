@@ -35,6 +35,14 @@ h1{
     grid-template-columns: auto;
     grid-row-gap: 60px;
   }
+
+
+  img{
+  padding: 60px;
+  width: 300px;
+  height: auto;
+  animation: float 6s ease-in-out infinite;
+
 }
 
 .arrow{
