@@ -36,12 +36,13 @@ h1{
     grid-row-gap: 60px;
   }
 
-
-  img{
-  padding: 60px;
+img{
+ padding: 60px;
   width: 300px;
   height: auto;
+  filter: none;
   animation: float 6s ease-in-out infinite;
+}
 
 }
 
