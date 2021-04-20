@@ -88,12 +88,10 @@ function showBooks() {
 var colour="#FFFFFF";
 var sparkles=120;
 
-/****************************
-*  Tinkerbell Magic Sparkle *
-* (c) 2005 mf2fm web-design *
-*  http://www.mf2fm.com/rv  *
-* DON'T EDIT BELOW THIS BOX *
-****************************/
+// Credit to
+// *  Tinkerbell Magic Sparkle *
+// * (c) 2005 mf2fm web-design *
+// *  http://www.mf2fm.com/rv  */
 var x=ox=400;
 var y=oy=300;
 var swide=800;
