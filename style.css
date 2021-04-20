@@ -1,15 +1,12 @@
 @font-face {
-    font-family: 'teutonic_no1demibold';
-    src: url('fonts/teutonic1-webfont.eot');
-    src: url('fonts/teutonic1-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/teutonic1-webfont.woff2') format('woff2'),
-         url('fonts/teutonic1-webfont.woff') format('woff'),
-         url('fonts/teutonic1-webfont.ttf') format('truetype'),
-         url('fonts/teutonic1-webfont.svg#teutonic_no1demibold') format('svg');
+    font-family: 'chomskyregular';
+    src: url('fonts/chomsky-webfont.woff2') format('woff2'),
+         url('fonts/chomsky-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
 
 html{
   background-color:#0B1319;
