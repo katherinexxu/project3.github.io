@@ -1,16 +1,4 @@
 @font-face {
-    font-family: 'Kudryashev Display';
-    src: url('font/KudryashevDisplay-Sans.eot');
-    src: local('font/Kudryashev Display Sans'), local('KudryashevDisplay-Sans'),
-        url('font/KudryashevDisplay-Sans.eot?#iefix') format('embedded-opentype'),
-        url('font/KudryashevDisplay-Sans.woff2') format('woff2'),
-        url('font/KudryashevDisplay-Sans.woff') format('woff'),
-        url('font/KudryashevDisplay-Sans.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'teutonic_no1demibold';
     src: url('fonts/teutonic1-webfont.eot');
     src: url('fonts/teutonic1-webfont.eot?#iefix') format('embedded-opentype'),
@@ -63,7 +51,7 @@ a:-webkit-any-link {
   }
 
 h2 {
-   font-family:'teutonic_no1demibold';
+   font-family:'Emilys Candy', cursive;'
   font-size: 35px;
   color: #FFFFFF;
   animation: floating 6s ease-in-out infinite;
